@@ -3,6 +3,7 @@
 # vim:fileencoding=utf-8
 from __future__ import print_function
 import pyzbar.pyzbar as pyzbar
+
 import sys
 sys.setrecursionlimit(999999999)
 block_cipher = None
